@@ -47,7 +47,7 @@
             <filtering>true</filtering>
             <includes>**/*.properties</includes>
         </resource>
-    </resources> </build>
+    </resources></build>
 
 
 </project>
